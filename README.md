@@ -11,10 +11,10 @@ Week 1 Code challenge
     <li>Write a function that, given an array A consisting of N integers, returns the maximum sum of two numbers whose digits add up to an equal sum. If there are no two numbers whose digits have an equal sum, the function should return -1.</li>
     <li>Write a function solution that, given an integer N, returns a string of length N containing as many different lower-case letters ('a'-'z') as possible, in which each letter occurs an equal number of times.</li>
 </ol>
- ## How to setup the Project.
+ ## How to set up the Project.
  => git clone the repository.
- repository link: https://github.com/CodesByEtemesi/Phase3_Wk1_Code_Challenge.git
- => cd into the cloned reository.
+ repository link: https://github.com/CodesByEtemesi/Phase3_Wk1_Code_Challenge
+ => cd into the cloned repository.
   
   ## Executing the project.
   => Ensure that you are in the directory.
